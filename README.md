@@ -105,7 +105,7 @@
 
 <!-- Attribution to Icons8 -->
 <div align="center">
-  <p style="color: gray;">Icons by <a href="https://icons8.com/" style="color: gray; text-decoration: underline;">Icons8</a></p>
+  <p style="color: gray; font-size: 9px;">Icons by <a href="https://icons8.com/" style="color: gray; text-decoration: underline;">Icons8</a></p>
 </div>
 
 <!--
