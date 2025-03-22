@@ -25,7 +25,8 @@
 </div>
 
 <!-- About me -->
-<div class="flex-container">
+<!-- <div class="flex-container"> !!!Class doesnt work with GitHub -->
+<div>
   <div>
     <h3 align="center">
       About me
@@ -37,7 +38,6 @@
         <img src="https://raw.githubusercontent.com/stormphlegyas/vscode-42header/master/42.png" alt="School 42" width="50" height="50">
       </a>
     </p>
-    <br>
   </div>
 
   <!-- <hr> -->
