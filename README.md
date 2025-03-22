@@ -1,4 +1,5 @@
-<style>
+<!-- Styling in Markdown. Good in theory but doesn't work on GitHub -->
+<!-- <style>
 /* Default: Horizontal layout */
 .flex-container {
   display: flex;
@@ -11,7 +12,7 @@
     flex-direction: column; /* Vertical layout */
   }
 }
-</style>
+</style> -->
 
 <!-- Title -->
 <h2 align="center">
