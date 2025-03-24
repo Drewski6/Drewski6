@@ -40,21 +40,19 @@
     </p>
   </div>
 
-  <!-- <hr> -->
-
   <!-- Languages -->
 
   <div>
     <h3 align="center">
       Languages
     </h3>
-    <p align="center">
+    <div align="center">
       <img src="./assets/icons/icons8-c.svg" width="50" height="50" title="C">
       <img src="./assets/icons/icons8-cpp.svg" width="50" height="50" title="C++">
       <img src="./assets/icons/icons8-python.svg" alt="Python" width="50" height="50" title="Python">
       <img src="./assets/icons/icons8-javascript.svg" alt="JavaScript" width="50" height="50" title="JavaScript">
       <img src="./assets/icons/icons8-bash.svg" alt="Bash" width="50" height="50" title="Bash">
-    </p>
+    </div>
   </div>
 
   <!-- Tools -->
@@ -75,33 +73,40 @@
     </p>
   </div>
 
-  <!-- Databases, Frameworks, OS table -->
-  <div align="center">
-    <table>
-      <tr>
-        <th>Databases</th>
-        <th>Frameworks</th>
-        <th>OS</th>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./assets/icons/icons8-postgresql.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL">
-          <img src="./assets/icons/icons8-mariadb.svg" alt="MariaDB" width="50" height="50" title="MariaDB">
-        </td>
-        <td align="center">
-          <img src="./assets/icons/icons8-django.svg" alt="Django" width="50" height="50" title="Django">
-          <img src="./assets/icons/icons8-bootstrap.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap">
-          <img src="./assets/icons/icons8-tailwindcss.svg" alt="TailwindCSS" width="50" height="50" title="TailwindCSS">
-        </td>
-        <td align="center">
-          <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)">
-          <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="50" height="50" title="Ubuntu">
-          <img src="https://img.icons8.com/color/48/debian.png" alt="Debian" width="50" height="50" title="Debian">
-        </td>
-      </tr>
-    </table>
+  <!-- Databases --> 
+  <div>
+    <h3 align="center">
+      Databases
+    </h3>
+    <p align="center">
+      <img src="./assets/icons/icons8-postgresql.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL">
+      <img src="./assets/icons/icons8-mariadb.svg" alt="MariaDB" width="50" height="50" title="MariaDB">
+    </p>
   </div>
-</div>
+
+  <!-- Frameworks --> 
+  <div>
+    <h3 align="center">
+      Frameworks
+    </h3>
+    <p align="center">
+      <img src="./assets/icons/icons8-django.svg" alt="Django" width="50" height="50" title="Django">
+      <img src="./assets/icons/icons8-bootstrap.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap">
+      <img src="./assets/icons/icons8-tailwindcss.svg" alt="TailwindCSS" width="50" height="50" title="TailwindCSS">
+    </p>
+  </div>
+
+  <!-- Operating Systems --> 
+  <div>
+    <h3 align="center">
+      Operating Systems / Distros
+    </h3>
+    <p align="center">
+      <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)">
+      <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="50" height="50" title="Ubuntu">
+      <img src="https://img.icons8.com/color/48/debian.png" alt="Debian" width="50" height="50" title="Debian">
+    </p>
+  </div>
 
 <!-- Attribution to Icons8 -->
 <div align="center">
