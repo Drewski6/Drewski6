@@ -14,7 +14,7 @@
     <h3>📫 How to reach me 📫</h3>
     <hr>
     <div>
-      <a href="">
+      <a href="https://www.linkedin.com/in/drewski6">
         <img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/>
       </a>
       <a href="mailto:pentland.contact@proton.me">
