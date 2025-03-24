@@ -8,24 +8,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<!-- About me -->
-<div align="left">
-  <div>
-    <h3>About me</h3>
+<div>
+  <!-- How to reach me -->
+  <div align="right">
+    <h3>📫 How to reach me 📫</h3>
     <hr>
     <div>
-      <img width="48" height="48" src="https://img.icons8.com/color/48/bouldering-skin-type-2.png" alt="bouldering-skin-type-2"/>
-      <img width="48" height="48" src="https://img.icons8.com/emoji/48/guitar-emoji.png" alt="guitar-emoji"/>
-      <a href="https://42.fr/en/homepage/">
-        <img src="https://raw.githubusercontent.com/stormphlegyas/vscode-42header/master/42.png" alt="School 42" width="50" height="50">
+      <a href="">
+        <img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/>
+      </a>
+      <a href="mailto:pentland.contact@proton.me">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em">
       </a>
     </div>
   </div>
 
-  <!-- Languages -->
+  <!-- About me -->
+  <div align="left">
+    <h3>📖 About me 📖</h3>
+    <hr>
+    <ul>
+      <li>Licensed Pharmacist in the US with 4 years experience.</li>
+      <li>Currently studying computer science at 
+        <a href="https://42.fr/en/homepage/">
+          <img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>
+        </a>
+      </li>
+    </ul>
+  </div>
 
+  <!-- Languages -->
   <div align="right">
-    <h3>Languages</h3>
+    <h3>🧑‍💻 Languages 🧑‍💻</h3>
     <hr>
     <div>
       <img src="./assets/icons/icons8-c.svg" width="50" height="50" title="C">
@@ -38,7 +52,7 @@
 
   <!-- Tools -->
   <div align="left">
-    <h3>Tools</h3>
+    <h3>⛏️ Tools 🔨</h3>
     <hr>
     <div>
       <img src="./assets/icons/icons8-docker.svg" alt="Docker" width="50" height="50" title="Docker">
@@ -46,6 +60,8 @@
       <img src="./assets/icons/icons8-git.svg" alt="Git" width="50" height="50" title="Git">
       <img src="./assets/icons/icons8-nginx.svg" alt="Nginx" width="50" height="50" title="Nginx">
       <img src="./assets/icons/icons8-wordpress.svg" alt="WordPress" width="50" height="50" title="WordPress">
+      <img src="./assets/icons/icons8-postgresql.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL">
+      <img src="./assets/icons/icons8-mariadb.svg" alt="MariaDB" width="50" height="50" title="MariaDB">
       <!-- <img src="" alt="VirtualBox" width="50" height="50" title="VirtualBox"> -->
       <!-- <img src="" alt="GDB" width="50" height="50" title="GDB"> -->
       <!-- <img src="" alt="Makefile" width="50" height="50" title="Makefile"> -->
@@ -53,38 +69,27 @@
     </div>
   </div>
 
-  <!-- Databases --> 
+  <!-- Frameworks --> 
   <div align="right">
-    <h3>Databases</h3>
+    <h3>🧩 Frameworks 🧩</h3>
     <hr>
     <div>
-      <img src="./assets/icons/icons8-postgresql.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL">
-      <img src="./assets/icons/icons8-mariadb.svg" alt="MariaDB" width="50" height="50" title="MariaDB">
+      <img src="./assets/icons/icons8-django.svg" alt="Django" width="50" height="50" title="Django">
+      <img src="./assets/icons/icons8-bootstrap.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap">
+      <img src="./assets/icons/icons8-tailwindcss.svg" alt="TailwindCSS" width="50" height="50" title="TailwindCSS">
     </div>
   </div>
 
-  <div style="display: flex; width: 100%;">
-    <!-- Frameworks --> 
-    <div align="left">
-      <h3>Frameworks</h3>
-      <hr>
-      <div>
-        <img src="./assets/icons/icons8-django.svg" alt="Django" width="50" height="50" title="Django">
-        <img src="./assets/icons/icons8-bootstrap.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap">
-        <img src="./assets/icons/icons8-tailwindcss.svg" alt="TailwindCSS" width="50" height="50" title="TailwindCSS">
-      </div>
+  <!-- Operating Systems --> 
+  <!-- <div align="right">
+    <h3>Operating Systems / Distros</h3>
+    <hr>
+    <div>
+      <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)">
+      <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="50" height="50" title="Ubuntu">
+      <img src="https://img.icons8.com/color/48/debian.png" alt="Debian" width="50" height="50" title="Debian">
     </div>
-    <!-- Operating Systems --> 
-    <div align="right">
-      <h3>Operating Systems / Distros</h3>
-      <hr>
-      <div>
-        <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)">
-        <!-- <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="50" height="50" title="Ubuntu">
-        <img src="https://img.icons8.com/color/48/debian.png" alt="Debian" width="50" height="50" title="Debian"> -->
-      </div>
-    </div>
-  </div>
+  </div> -->
 
 <!-- Attribution to Icons8 -->
 <div align="center">
