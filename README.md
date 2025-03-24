@@ -9,19 +9,6 @@
 </div>
 
 <div>
-  <!-- How to reach me -->
-  <div align="right">
-    <h3>📫 How to reach me 📫</h3>
-    <hr>
-    <div>
-      <a href="https://www.linkedin.com/in/drewski6">
-        <img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/>
-      </a>
-      <a href="mailto:pentland.contact@proton.me">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em">
-      </a>
-    </div>
-  </div>
 
   <!-- About me -->
   <div align="left">
@@ -37,8 +24,22 @@
     </ul>
   </div>
 
-  <!-- Languages -->
+  <!-- How to reach me -->
   <div align="right">
+    <h3>📫 How to reach me 📫</h3>
+    <hr>
+    <div>
+      <a href="mailto:pentland.contact@proton.me">
+        <img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/>
+      </a>
+      <a href="https://www.linkedin.com/in/drewski6">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em">
+      </a>
+    </div>
+  </div>
+
+  <!-- Languages -->
+  <div align="left">
     <h3>🧑‍💻 Languages 🧑‍💻</h3>
     <hr>
     <div>
@@ -51,7 +52,7 @@
   </div>
 
   <!-- Tools -->
-  <div align="left">
+  <div align="right">
     <h3>⛏️ Tools 🔨</h3>
     <hr>
     <div>
@@ -70,7 +71,7 @@
   </div>
 
   <!-- Frameworks --> 
-  <div align="right">
+  <div align="left">
     <h3>🧩 Frameworks 🧩</h3>
     <hr>
     <div>
