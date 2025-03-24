@@ -15,7 +15,7 @@
     <h3>📖 About me 📖</h3>
     <hr>
     <ul>
-      <li>Licensed Pharmacist in the US with 4 years experience.</li>
+      <li>Licensed Pharmacist in the US with 4 years of experience.</li>
       <li>Currently studying computer science at 
         <a href="https://42.fr/en/homepage/">
           <img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>
@@ -29,12 +29,8 @@
     <h3>📫 How to reach me 📫</h3>
     <hr>
     <div>
-      <a href="mailto:pentland.contact@proton.me">
-        <img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/>
-      </a>
-      <a href="https://www.linkedin.com/in/drewski6">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em">
-      </a>
+      <a style="margin-right: 1rem;" href="mailto:pentland.contact@proton.me"><img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/></a>
+      <a href="https://www.linkedin.com/in/drewski6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a>
     </div>
   </div>
 
