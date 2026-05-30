@@ -20,13 +20,13 @@
     <hr>
     <ul>
       <li>Licensed Pharmacist in the US with 5 years of work experience.</li>
-      <li>4 years of experience in IT/Software Development.</li>
+      <li>4 years of experience in IT / Software Development.</li>
       <li>Currently studying computer science at 
         <a href="https://42.fr/en/homepage/" target="_blank">
           <img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>
         </a>
       </li>
-      <li>Passionate SysAdmin of my own HomeLab where I self-host tools like Pi-Hole DNS w/ Unbound, Nginx Proxy Manager, GitLab w/ personal repos and local container registry, Wiki.js, and Draw.io all running with redundant on-site HDD backups.</li>
+      <li>Passionate SysAdmin of my own HomeLab where I self-host tools like Pi-Hole DNS w/ Unbound, Nginx Proxy Manager, GitLab w/ local repos and local container registry, Wiki.js, and Draw.io all running with redundant on-site HDD backups.</li>
       <li>
         Browse the source code for my Ecole 42 projects <a href="https://github.com/Drewski6/Ecole-42-Paris" target="_blank">here</a>.
       </li>
@@ -89,7 +89,7 @@
 
   <!-- Operating Systems --> 
   <div align="right">
-    <h3>Operating Systems / Distros</h3>
+    <h3>🖥️ Operating Systems / Distros 🖥️</h3>
     <hr>
     <div>
       <!-- <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)"> -->
@@ -100,7 +100,7 @@
 
   <!-- HomeLab Stack  -->
   <div align="left">
-    <h3>HomeLab Stack</h3>
+    <h3>⚗️ HomeLab Stack 🧪</h3>
     <hr>
     <div>
       <img src="./assets/icons/icons8-ansible.svg" alt="Ansible" width="50" height="50" title="Ansible">
