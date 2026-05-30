@@ -5,7 +5,9 @@
 
 <!-- Automatically appear text -->
 <div align="center">
+  <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </div>
 
 <div>
