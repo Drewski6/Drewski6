@@ -24,7 +24,7 @@
       </li>
       <li>Passionate SysAdmin of my own HomeLab where I self-host tools like Pi-Hole DNS w/ Unbound, Nginx Proxy Manager, GitLab w/ personal repos and local container registry, Wiki.js, and Draw.io all running with redundant on-site HDD backups.</li>
       <li>
-        Browse my Ecole 42 project source code <a href="https://github.com/Drewski6/Ecole-42-Paris" target="_blank">here</a>.
+        Browse the source code for my Ecole 42 projects <a href="https://github.com/Drewski6/Ecole-42-Paris" target="_blank">here</a>.
       </li>
     </ul>
   </div>
