@@ -15,11 +15,16 @@
     <h3>📖 About me 📖</h3>
     <hr>
     <ul>
-      <li>Licensed Pharmacist in the US with 4 years of experience.</li>
+      <li>Licensed Pharmacist in the US with 5 years of work experience.</li>
+      <li>4 years of experience in IT/Software Development.</li>
       <li>Currently studying computer science at 
-        <a href="https://42.fr/en/homepage/">
+        <a href="https://42.fr/en/homepage/" target="_blank">
           <img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>
         </a>
+      </li>
+      <li>Passionate SysAdmin of my own HomeLab where I self-host tools like Pi-Hole DNS w/ Unbound, Nginx Proxy Manager, GitLab w/ personal repos and local container registry, Wiki.js, and Draw.io all running with redundant on-site HDD backups.</li>
+      <li>
+        Browse my Ecole 42 project source code <a href="https://github.com/Drewski6/Ecole-42-Paris" target="_blank">here</a>.
       </li>
     </ul>
   </div>
@@ -30,7 +35,7 @@
     <hr>
     <div>
       <a style="margin-right: 1rem;" href="mailto:contact@drewpentland.com"><img src="https://img.shields.io/badge/ProtonMail-907EDA?style=for-the-badge&logo=Proton&logoColor=white" height="25rem"/></a>
-      <a href="https://www.linkedin.com/in/drewski6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a>
+      <a href="https://www.linkedin.com/in/drewski6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a>
     </div>
   </div>
 
@@ -58,7 +63,9 @@
       <img src="./assets/icons/icons8-nginx.svg" alt="Nginx" width="50" height="50" title="Nginx">
       <img src="./assets/icons/icons8-wordpress.svg" alt="WordPress" width="50" height="50" title="WordPress">
       <img src="./assets/icons/icons8-postgresql.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL">
-      <img src="./assets/icons/icons8-mariadb.svg" alt="MariaDB" width="50" height="50" title="MariaDB">
+      <img src="./assets/icons/icons8-kubernetes.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes">
+      <img src="./assets/icons/icons8-ansible.svg" alt="Ansible" width="50" height="50" title="Ansible">
+      <!-- <img src="./assets/icons/icons8-mariadb.svg" alt="MariaDB" width="50" height="50" title="MariaDB"> -->
       <!-- <img src="" alt="VirtualBox" width="50" height="50" title="VirtualBox"> -->
       <!-- <img src="" alt="GDB" width="50" height="50" title="GDB"> -->
       <!-- <img src="" alt="Makefile" width="50" height="50" title="Makefile"> -->
@@ -72,35 +79,47 @@
     <hr>
     <div>
       <img src="./assets/icons/icons8-django.svg" alt="Django" width="50" height="50" title="Django">
-      <img src="./assets/icons/icons8-bootstrap.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap">
       <img src="./assets/icons/icons8-tailwindcss.svg" alt="TailwindCSS" width="50" height="50" title="TailwindCSS">
     </div>
   </div>
 
   <!-- Operating Systems --> 
-  <!-- <div align="right">
+  <div align="right">
     <h3>Operating Systems / Distros</h3>
     <hr>
     <div>
-      <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)">
+      <!-- <img src="./assets/icons/icons8-windows.svg" alt="Windows" width="50" height="50" title="Windows" style="filter: invert(1)"> -->
       <img src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="Ubuntu" width="50" height="50" title="Ubuntu">
       <img src="https://img.icons8.com/color/48/debian.png" alt="Debian" width="50" height="50" title="Debian">
     </div>
-  </div> -->
+  </div>
+
+  <!-- HomeLab Stack  -->
+  <div align="left">
+    <h3>HomeLab Stack</h3>
+    <hr>
+    <div>
+      <img src="./assets/icons/icons8-ansible.svg" alt="Ansible" width="50" height="50" title="Ansible">
+      <img src="./assets/icons/icons8-docker.svg" alt="Docker" width="50" height="50" title="Docker">
+      <img src="./assets/icons/icons8-kubernetes.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes">
+      <img src="./assets/icons/icons8-git.svg" alt="Git" width="50" height="50" title="Git">
+      <img src="./assets/icons/icons8-nginx.svg" alt="Nginx" width="50" height="50" title="Nginx">
+      <img src="./assets/icons/icons8-gitlab.svg" alt="GitLab" width="50" height="50" title="GitLab">
+      <img src="https://img.icons8.com/color/48/debian.png" alt="Debian" width="50" height="50" title="Debian Server">
+    </div>
+    <ul>
+      <h5>Apps I couldn't find a cool icon for (all running locally in Docker containers)</h5>
+      <li><a href="https://pi-hole.net/" target="_blank">Pi-Hole w/ Unbound recursive DNS</a></li>
+      <!-- <li><a href="" target="_blank">Chrony local NTP server</a></li> -->
+      <li><a href="https://nginxproxymanager.com/" target="_blank">Nginx Proxy Manager</a></li>
+      <li><a href="https://www.drawio.com/" target="_blank">Draw.io</a></li>
+      <li><a href="https://js.wiki/" target="_blank">Wiki.js</a></li>
+    </ul>
+  </div>
+
+</div>
 
 <!-- Attribution to Icons8 -->
 <div align="center">
   <p style="color: gray; font-size: 9px;">Icons by <a href="https://icons8.com/" style="color: gray; text-decoration: underline;">Icons8</a></p>
 </div>
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
